@@ -13,5 +13,6 @@
 ``` Bash
     inoremap <C-c> <ESC> # map ctrl + c with esc button (insert mode)
     nnoremap a b # map a to b (normal mode)
+    set ls=2 # set vim to show file name
 ```
 codeoutpost
